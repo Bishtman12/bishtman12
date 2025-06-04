@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi there, I'm Sachin Bisht
+A self-taught Software Engineer. My journey began post-MSc in Chemistry during the pandemic, when I taught myself to code by building a Discord bot—and I haven't stopped learning since.
 
-<!--
-**Bishtman12/bishtman12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Currently Exploring
+- Deep-diving into **AWS cloud architecture**
+- Strengthening fundamentals in **software engineering**, distributed systems, and system design
 
-Here are some ideas to get you started:
+### 💼 What I Do
+- ⚙️ Backend development with Node.js, Python.
+- 🏗 Design and manage scalable data warehouses & ETL pipelines.
+- 🔁 Architect event-driven and compliance-integrated microservices.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+- **Languages:** JavaScript, TypeScript, Python  
+- **Frameworks:** Node.js, Flask, Apache Airflow, BullMQ  
+- **Databases:** Redshift, MySQL, PostgreSQL, MongoDB, Redis  
+- **Favourite Tools:** Warp, Cursor.ai, CollaNote  
+
+---
+
+📫 Reach me at:
+- 📧 bishtman12@gmail.com
