@@ -3,7 +3,7 @@ A self-taught Software Engineer. My journey began post-MSc in Chemistry during t
 
 ### 🚀 Currently Exploring
 - Deep-diving into **AWS cloud architecture**
-- Strengthening fundamentals in **software engineering**, distributed systems, and system design
+- Strengthening fundamentals in **software engineering**.
 
 ### 💼 What I Do
 - ⚙️ Backend development with Node.js, Python.
